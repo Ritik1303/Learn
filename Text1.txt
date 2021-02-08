@@ -1,6 +1,1 @@
-ritik
-This is a try for git (learning purpose)c
-chekcing git diff
-fighj
-
-jdrsedtgh
+This is in serverfix
